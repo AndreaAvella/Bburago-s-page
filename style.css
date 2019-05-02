@@ -1,0 +1,44 @@
+body {
+     text-align: center;
+     background-color: #ff0;
+}
+
+ header {
+     background-color: #000;
+     position: flex;
+     width: 98vw;
+}
+
+ li {
+     float: right;
+}
+
+ li a {
+     display: block;
+     color: yellow;
+     padding: 14px 16px;
+     text-decoration: none;
+}
+
+ nav {
+     justify-content: flex-end;
+     padding: 0 10px;
+     font-family: 'helvetica', sans-serif;
+}
+
+ .logo {
+     width: 0px;
+}
+
+.container {
+     display: flex;
+}
+
+
+
+  
+
+
+
+
+
